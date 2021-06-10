@@ -27,4 +27,4 @@ https://www.urionlinejudge.com.br/judge/en/problems/view/3190
 
   
 
-**r:** Decidi não continuar buscando a resposta para esta questão pois não acredito que seja uma tarefa para SQL, e sim para uma linguagem de programação de uso geral. Acredito que mais importante que ser capaz de solucionar um problema é ser capaz de escolher a ferramenta certa para cada problema. Por isso, criei uma requisição SQL que retorna todos os horários ocupados de uma sala, que pode ser utilizada por uma linguagem de programação para obter os horários disponíveis.
+**r:** Decidi não continuar buscando a resposta para esta questão pois não acredito que seja uma tarefa para SQL, e sim para uma linguagem de programação de uso geral. Acredito que mais importante que ser capaz de solucionar um problema é ser capaz de escolher a ferramenta certa para cada problema. Por isso, criei uma requisição SQL que retorna todos os horários ocupados de uma sala, que pode ser utilizada por uma linguagem de programação para obter os horários disponíveis. Uma pseudosolução para o problema pode ser encontrada no arquivo `getFreeSchedules.js`.
